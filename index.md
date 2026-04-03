@@ -12,7 +12,6 @@ author_profile: true
 ### 🎓 Student Credentials
 * **Roll Number:** 2025-BSCPE-131
 * **Section:** A
-* **Major:** Computer Engineering
 * **Admission Date:** September 16, 2025
 
 ### 🎯 Professional Objective
