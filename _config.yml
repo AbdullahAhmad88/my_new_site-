@@ -1,8 +1,7 @@
 title: "Abdullah Ahmad Mirza"
 name: "Abdullah Ahmad Mirza"
 url: "https://abdullahahmad88.github.io"
-baseurl: "/my_new_site-" # Change this if your repository name is different
-repository: "AbdullahAhmad88/my_new_site-"
+baseurl: "" # Leave empty if your repo name is your-username.github.io
 
 # Theme Configuration
 remote_theme: "mmistakes/minimal-mistakes@4.24.4"
@@ -13,7 +12,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# Author Sidebar (Matches your previous credentials)
+# Author Sidebar (Your Credentials)
 author:
   name: "Abdullah Ahmad Mirza"
   bio: "BS Computer Engineering | UET Faisalabad (Section A)"
@@ -23,7 +22,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/abdullah-ahmad-mirza-2b9656378"
 
-# Navigation Menu
+# Top Navigation Menu
 header:
   nav_links:
     - title: "Home"
@@ -35,7 +34,7 @@ header:
     - title: "Contact"
       url: "/contact/"
 
-# Default Layouts
+# Default Layout Settings
 defaults:
   - scope:
       path: ""
